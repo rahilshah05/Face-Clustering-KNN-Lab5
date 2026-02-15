@@ -5,7 +5,7 @@ Aim:
 Detect faces in a picture and cluster them based on skin tone using HSV features.
 
 Method:
-1.Used Haar cascade to do face detection
+1.Applied face detection on the picture 
 
 2.extracted Hue and Saturation
 
